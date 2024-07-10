@@ -22,4 +22,4 @@ config文件夹中的mysql.properties文件中有数据库相关配置
 
 # 5.文档ppt
 
-如果有需要，可以联系邮箱859790166@qq.com,获取ppt和项目文档
+如果有需要，可以联系邮箱23200107116@post.usts.edu.cn,获取ppt和项目文档
